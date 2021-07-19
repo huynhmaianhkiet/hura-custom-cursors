@@ -38,7 +38,7 @@ class Hura_Apps_Custom_Cursors {
 							<h3 class="hndle2"><span>About <?php echo esc_html($this->plugin_title); ?></span></h3>
 							<div class="inside">
 								<p><?php echo esc_html($this->plugin_description); ?></p>
-								<p>Version: 1.0 - Release date: July 2021<br></p>							
+								<p>Version: 1.0 - Release date: July 20, 2021<br></p>							
 							</div>
 						</div>
 
