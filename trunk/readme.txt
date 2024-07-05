@@ -21,19 +21,9 @@ This plugin to customize your website cursor, you will get a very elegant and un
 
 == Frequently asked questions ==
 
-
-
 == Screenshots ==
-
-
 
 == Changelog ==
 
-
-
 == Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
 

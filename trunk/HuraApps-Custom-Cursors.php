@@ -4,8 +4,8 @@
   Version: 1.0
   Description: Customizing your website cursor.
   Author: Hura Apps
-  Author URI: http://www.huraapps.com
- */
+  Author URI: https://www.huraapps.com
+*/
 	
 class Hura_Apps_Custom_Cursors {	
 
@@ -37,8 +37,7 @@ class Hura_Apps_Custom_Cursors {
 						<div class="postbox ">
 							<h3 class="hndle2"><span>About <?php echo esc_html($this->plugin_title); ?></span></h3>
 							<div class="inside">
-								<p><?php echo esc_html($this->plugin_description); ?></p>
-								<p>Version: 1.0 - Release date: July 20, 2021<br></p>							
+								<p><?php echo esc_html($this->plugin_description); ?></p>															
 							</div>
 						</div>
 
@@ -48,8 +47,8 @@ class Hura_Apps_Custom_Cursors {
 								<p></p>
 								<p>Hura Apps is a Vietnam-based Web & Mobile App development team. You can contact us via:</p>
 								<ul>
-									<li>Email: <a href="mailto:info@huraapps.com">Info@HuraApps.Com</a></li>
-									<li>Facebook: <a href="//www.facebook.com/huraapps" target="_blank">HuraApps</a></li>
+									<li>Email: <a href="mailto:info@huraapps.com">Info@huraapps.com</a></li>
+									<li>Facebook: <a href="//www.facebook.com/huraapps" target="_blank">Huraapps</a></li>
 									<li>Website: <a href="//www.huraapps.com" target="_blank">wWw.HuraApps.Com</a></li>
 								</ul>
 								<p></p>
@@ -121,7 +120,7 @@ class Hura_Apps_Custom_Cursors {
 							</div>							
 							<div class="postbox">
 								<div class="inside">
-									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">wWw.HuraApps.Com</a>. All rights reserved.<br>Developed and Designed by <a href="//me.anhkiet.info" target="_blank">Huynh Mai Anh Kiet</a>.</p>
+									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">Hura Apps</a>. All rights reserved.<br>Developed and Designed by <a href="//anhkiet.biz" target="_blank">Kiet Huynh</a>.</p>
 								</div>
 							</div>
 						</div>
