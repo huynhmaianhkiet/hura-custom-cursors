@@ -80,7 +80,7 @@ class Hura_Apps_Custom_Cursors {
 														<input type="radio" name="huraapps_customer_cursor" value="" <?php echo esc_attr(($config_cursor=='')?'checked':''); ?>>
 													</label>
 												</div>	
-												<?php for($i=1;$i<=10;$i++){?>												
+												<?php for($i=1;$i<=35;$i++){?>												
 												<div>
 													<label>
 														<img src="<?php echo esc_url(plugin_dir_url( __FILE__ ).'images/cursors/cursor-'.$i.'.png'); ?>">
@@ -88,7 +88,7 @@ class Hura_Apps_Custom_Cursors {
 													</label>
 												</div>
 												<?php } ?>								
-												<?php for($i=1;$i<=30;$i++){?>												
+												<?php for($i=1;$i<=40;$i++){?>												
 												<div>
 													<label>
 														<img src="<?php echo esc_url(plugin_dir_url( __FILE__ ).'images/cursors/flag_'.$i.'.png'); ?>">
